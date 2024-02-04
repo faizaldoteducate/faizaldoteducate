@@ -1,7 +1,3 @@
-Your GitHub profile README is a fantastic opportunity to showcase your skills and experience to potential collaborators and employers. Here's a suggestion for your profile README:
-
----
-
 # Hi there, I'm [Mohamed Faizal](https://www.instagram.com/themohamedfaizal/) <img src="https://github.com/themohamedfaizal/themohamedfaizal/blob/main/Designs/Developer.gif" width="45px">
 📫 Reach me: **faizal.educate@gmail.com** 
 ## About Me
@@ -32,11 +28,6 @@ I'm a seasoned Site Reliability Engineer (SRE) passionate about ensuring the rel
 ## 💡 Passionate About
 
 Exploring the intersection of technology and business success, I am dedicated to leveraging my skills to build robust, scalable, and secure systems. Let's connect, collaborate, and drive innovation together!
-
-## 🔗 Open to Networking and Opportunities
-
-Feel free to connect for discussions on SRE, DevOps, Kubernetes, or anything tech-related. Let's build a network that fosters learning and growth!
-
 
 
 <!--
